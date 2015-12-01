@@ -1,4 +1,4 @@
-
+//HI RICHARD
 
 //Sample of a Program that calculates the AVERAGE of its ELEMENTS
 //by Trinmar Boado
